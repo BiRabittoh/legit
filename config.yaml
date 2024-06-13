@@ -12,9 +12,9 @@ dirs:
   templates: ./templates
   static: ./static
 meta:
-  title: git good
-  description: i think it's a skill issue
+  title: git rekt
+  description: reasons why i don't log into discord
 server:
-  name: git.icyphox.sh
-  host: 127.0.0.1
+  name: git.birabittoh.duckdns.org
+  host: 0.0.0.0
   port: 5555
