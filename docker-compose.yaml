@@ -1,6 +1,7 @@
 services:
   legit:
     container_name: legit
+    image: ghcr.io/birabittoh/legit:main
     build:
       context: .
     restart: unless-stopped
