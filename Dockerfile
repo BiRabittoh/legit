@@ -18,7 +18,6 @@ WORKDIR /app
 
 COPY static ./static
 COPY templates ./templates
-COPY config.yaml ./
 COPY --from=builder /app/legit ./
 
 EXPOSE 5555
